@@ -1,0 +1,21 @@
+body {
+   /* background-image: url(https://i.pinimg.com/1200x/ed/fb/9f/edfb9f53f30a80514651c4310255b7b7.jpg); */
+   /* background-size: cover; */
+   /* justify-content: center;
+   display: flex; */
+   padding: auto;
+
+}
+
+
+h1 {
+   color: blue;
+   text-align: center;
+}
+.renz h1{
+   color: red;
+}
+
+.text p {
+   margin-left: 25px;
+}
